@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eklas-Mohin
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me mohin030299@gmail.com
+- I’m Eklas-Mohin
+- Competitive Programmer / Problem Solver
+- Full Stack Web Developer 
+- Email : mohin030299@gmail.com
