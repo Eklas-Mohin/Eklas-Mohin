@@ -9,6 +9,7 @@
 - **Languages**: C, C++, Java, Python, JavaScript, TypeScript
 - **Web Development**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - **Competitive Programming**: Data Structures, Algorithms, Dynamic Programming, and more
+---
 
 ### 🏆 Competitive Programming
 
@@ -16,6 +17,7 @@
 - Solving complex problems using efficient algorithms and optimization techniques like dynamic programming, memoization, and more.
 - Passionate about improving coding skills and participating in programming contests.
 
+---
 ### 🌐 Web Development
 
 - Experienced in building full-stack web applications using the MERN stack.
@@ -28,6 +30,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### 📫 How to reach me:
 
