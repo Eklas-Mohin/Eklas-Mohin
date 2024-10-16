@@ -1,8 +1,14 @@
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
----
-  <h2 align="center"> Hi, I'm Mohin! 👋<br>Competitive Programmer | Full Stack Developer<h2>
 
 ---
+
+<h2 align="center"> Hi, I'm Mohin! 👋</h2>
+
+
+<h2 align="center"> Competitive Programmer | Full Stack Developer </h2> 
+
+---
+
 ### 🛠 Tech Stack
 
 - **Languages**: C, C++, Java, Python, JavaScript, TypeScript
@@ -33,12 +39,15 @@
 - Passionate about improving coding skills and participating in programming contests.
 
 ---
+
 ### 🌐 Web Development
 
 - Experienced in building full-stack web applications using the MERN stack.
 - Knowledgeable in frontend technologies like **React.js** and backend technologies like **Node.js** with **Express.js**.
 - Comfortable working with databases like **MongoDB**.
+
 ---
+
 ### My GitHub Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=dark&background=000000)](https://git.io/streak-stats)
