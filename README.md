@@ -4,7 +4,9 @@
   <h2> Hi, I'm Mohin! 👋<h2>
 </div>
 
-**Competitive Programmer | Full Stack Developer**
+<div align="center">
+  <h2>Competitive Programmer | Full Stack Developer<h2>
+</div>
 
 ---
 
