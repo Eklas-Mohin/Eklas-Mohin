@@ -1,6 +1,8 @@
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
-# Hi, I'm Mohin! 👋
+<div style="text-align: center;">
+  # Hi, I'm Mohin! 👋
+</div>
 
 **Competitive Programmer | Full Stack Developer**
 
