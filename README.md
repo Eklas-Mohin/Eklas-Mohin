@@ -1,13 +1,9 @@
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
----
-
 <h2 align="center"> Hi, I'm Mohin 👋</h2>
 
 
 <h2 align="center"> Competitive Programmer | Full Stack Developer </h2> 
-
----
 
 ### 🛠 Tech Stack
 
