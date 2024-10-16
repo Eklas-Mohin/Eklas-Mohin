@@ -12,7 +12,7 @@
 
 ### 🏆 Competitive Programming
 
-- Active participant in platforms like [Codeforces](https://codeforces.com/), [Leetcode](https://leetcode.com/), and [AtCoder](https://atcoder.jp/).
+- Active participant in platforms like [Codeforces](https://codeforces.com/profile/MOHIN.CF), [Leetcode](https://leetcode.com/u/MOHIN_99/), and [AtCoder](https://atcoder.jp/).
 - Solving complex problems using efficient algorithms and optimization techniques like dynamic programming, memoization, and more.
 - Passionate about improving coding skills and participating in programming contests.
 
