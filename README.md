@@ -27,8 +27,8 @@
 ### 📫 How to reach me:
 
 - **Email**: mohin020399@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/)
-- **GitHub**: [Your GitHub](https://github.com/Eklas-Mohin)
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/)
+- **GitHub**: [GitHub](https://github.com/Eklas-Mohin)
 
 ---
 
