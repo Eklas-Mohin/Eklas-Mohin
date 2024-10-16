@@ -22,8 +22,8 @@
 - Knowledgeable in frontend technologies like **React.js** and backend technologies like **Node.js** with **Express.js**.
 - Comfortable working with databases like **MongoDB**.
 
+### My GitHub Stats :
 ---
-### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=dark&background=000000)](https://git.io/streak-stats)
 
