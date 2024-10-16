@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
-<div style="text-align: center;">
+<div align="center">
   # Hi, I'm Mohin! 👋
 </div>
 
