@@ -5,6 +5,7 @@
 
 <h2 align="center"> Competitive Programmer | Full Stack Developer </h2> 
 
+---
 ### 🛠 Tech Stack
 
 - **Languages**: C, C++, Java, Python, JavaScript, TypeScript
