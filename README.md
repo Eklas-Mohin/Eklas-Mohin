@@ -46,7 +46,7 @@
     <a href="https://www.hackerrank.com/profile/mohin030299">
         <img src="https://img.shields.io/badge/HackerRank-MOHIN-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank">
     </a>
-    <a href="https://www.hackerearth.com/@MOHIN">
+    <a href="https://www.hackerearth.com/@mohin030299/">
         <img src="https://img.shields.io/badge/HackerEarth-MOHIN-darkblue?style=for-the-badge&logo=hackerearth" alt="HackerEarth">
     </a>
     <a href="https://www.spoj.com/users/MOHIN">
