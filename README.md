@@ -85,10 +85,10 @@
 
 <div align="center">
     <a href="https://github.com/Eklas-Mohin">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=dark&background=000000" alt="GitHub Streak" width="400" height="150"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=dark&background=000000" alt="GitHub Streak" width="800" height="150"/>
     </a>
     <a href="https://github.com/Eklas-Mohin">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="450" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="800" height="150"/>
     </a>
 </div>
 
