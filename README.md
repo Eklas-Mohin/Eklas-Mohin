@@ -88,7 +88,7 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=dark&background=000000" alt="GitHub Streak" height="150"/>
     </a>
     <a href="https://github.com/Eklas-Mohin">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="150" width="50%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="150" width="80%"/>
     </a>
 </div>
 
