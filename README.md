@@ -98,7 +98,7 @@
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Eklas--Recursion-blue?style=flat-square)](https://github.com/Eklas-Mohin)
+[![GitHub](https://img.shields.io/badge/GitHub-Recursion-blue?style=flat-square)](https://github.com/Eklas-Mohin)
 
 
 ---
