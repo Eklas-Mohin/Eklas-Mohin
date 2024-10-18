@@ -97,12 +97,10 @@
 
 ### 📫 How to reach me:
 
-### 📫 How to reach me:
-
 [![Email](https://img.shields.io/badge/Email-mohin020399@gmail.com-blue?style=flat-square)](mailto:mohin020399@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/)<br />
-[![GitHub](https://img.shields.io/badge/GitHub-Eklas--Mohin-blue?style=flat-square)](https://github.com/Eklas-Mohin)
-[![Recursive Call Right?](https://img.shields.io/badge/Recursive%20Call%20Right?-yellow?style=flat-square)](https://github.com/Eklas-Mohin)
+[![GitHub](https://img.shields.io/badge/GitHub-Eklas--Mohin-blue?style=flat-square)](https://github.com/Eklas-Mohin) &nbsp; Recursive call, right?
+
 
 ---
 
