@@ -97,9 +97,9 @@
 
 ### 📫 How to reach me:
 
-- **Email**: mohin020399@gmail.com
-- **LinkedIn**: [My LinkedIn](https://linkedin.com/in/)
-- **GitHub**: [My GitHub](https://github.com/Eklas-Mohin)&nbsp;&nbsp;**Recursive Call Right?**
+[![Email](https://img.shields.io/badge/Email-mohin020399@gmail.com-blue?style=flat-square)](mailto:mohin020399@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-Eklas--Mohin-blue?style=flat-square)](https://github.com/Eklas-Mohin)&nbsp;&nbsp;**Recursive Call Right?**
 
 ---
 
