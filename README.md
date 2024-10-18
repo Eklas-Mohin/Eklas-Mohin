@@ -1,7 +1,7 @@
 ![Header](./github-header-image2.png "Header")
 
 <br />
-<div align="center">![](https://komarev.com/ghpvc/?username=Eklas-Mohin)</div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Eklas-Mohin&style=flat-square&color=blue" alt=""/></div>
 
 ---
 ### 🛠 Tech Stack
