@@ -42,6 +42,7 @@
     <a href="https://atcoder.jp/users/MOHIN">
         <img src="https://img.shields.io/badge/AtCoder-MOHIN-lightgrey?style=for-the-badge&logo=atcoder" alt="AtCoder">
     </a>
+    <br/ >
     <a href="https://www.hackerrank.com/MOHIN">
         <img src="https://img.shields.io/badge/HackerRank-MOHIN-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank">
     </a>
@@ -51,6 +52,7 @@
     <a href="https://www.spoj.com/users/MOHIN">
         <img src="https://img.shields.io/badge/SPOJ-MOHIN-lightgreen?style=for-the-badge&logo=spoj" alt="SPOJ">
     </a>
+    <br/ >
     <a href="https://lightoj.com/user/MOHIN">
         <img src="https://img.shields.io/badge/LightOJ-MOHIN-purple?style=for-the-badge&logo=lightoj" alt="LightOJ">
     </a>
@@ -60,6 +62,7 @@
     <a href="https://www.codechef.com/users/MOHIN">
         <img src="https://img.shields.io/badge/CodeChef-MOHIN-lightgrey?style=for-the-badge&logo=codechef" alt="CodeChef">
     </a>
+    <br/ >
     <a href="http://acm.timus.ru/author.aspx?id=MOHIN">
         <img src="https://img.shields.io/badge/Timus-MOHIN-orange?style=for-the-badge&logo=timus" alt="Timus">
     </a>
