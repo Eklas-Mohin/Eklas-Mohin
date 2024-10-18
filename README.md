@@ -49,7 +49,7 @@
     <a href="https://www.hackerearth.com/@mohin030299/">
         <img src="https://img.shields.io/badge/HackerEarth-MOHIN-darkblue?style=for-the-badge&logo=hackerearth" alt="HackerEarth">
     </a>
-    <a href="https://www.spoj.com/users/MOHIN">
+    <a href="https://www.spoj.com/users/mohin/">
         <img src="https://img.shields.io/badge/SPOJ-MOHIN-lightgreen?style=for-the-badge&logo=spoj" alt="SPOJ">
     </a>
     <br/ >
