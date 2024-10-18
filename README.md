@@ -71,6 +71,7 @@
 </div>
 
 <p>These platforms showcase my competitive programming journey and contributions, where I solve algorithmic challenges, participate in contests, and continuously sharpen my problem-solving skills.</p>
+
 ---
 
 ## 🌐 Web Development
