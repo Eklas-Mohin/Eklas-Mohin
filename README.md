@@ -29,8 +29,10 @@
 ### 🏆 Competitive Programming
 
 <div align="center">
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150" />
-    <br/>
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="100" />
+</div>
+
+<div align="center">
     <a href="https://codeforces.com/profile/MOHIN.CF">
         <img src="https://img.shields.io/badge/Codeforces-MOHIN.CF-blue?style=for-the-badge&logo=codeforces" alt="Codeforces">
     </a>
