@@ -85,7 +85,7 @@
 
 <div align="center">
     <a href="https://github.com/Eklas-Mohin">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=dark&background=000000" alt="GitHub Streak" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=dark&background=000000" alt="GitHub Streak" width="500"/>
     </a>
     <a href="https://github.com/Eklas-Mohin">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
