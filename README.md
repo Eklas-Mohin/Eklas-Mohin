@@ -56,7 +56,7 @@
     <a href="https://lightoj.com/user/mohin">
         <img src="https://img.shields.io/badge/LightOJ-MOHIN-purple?style=for-the-badge&logo=lightoj" alt="LightOJ">
     </a>
-    <a href="https://www.urionlinejudge.com.br/judge/en/profile/5306">
+    <a href="https://uhunt.onlinejudge.org/id/1643450">
         <img src="https://img.shields.io/badge/UVa-MOHIN-brown?style=for-the-badge&logo=uva" alt="UVa">
     </a>
     <a href="https://www.codechef.com/users/mohin_99">
