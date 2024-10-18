@@ -28,7 +28,7 @@
 
 ## 🏆 Competitive Programming
 
-- I am actively engaged in competitive programming, participating in various coding challenges across multiple platforms. With a passion for solving complex algorithmic problems, I regularly compete on platforms like Codeforces, LeetCode, and AtCoder. Through these competitions, I continually enhance my problem-solving skills, explore new algorithms, and refine my coding techniques. This hands-on experience allows me to stay updated with the latest trends in competitive programming and develop efficient solutions for a diverse range of challenges.. Below are my profiles:
+- I am actively engaged in competitive programming, participating in various coding challenges across multiple platforms. With a passion for solving complex algorithmic problems, I regularly compete on platforms like Codeforces, LeetCode, and AtCoder. Through these competitions, I continually enhance my problem-solving skills, explore new algorithms, and refine my coding techniques. This hands-on experience allows me to stay updated with the latest trends in competitive programming and develop efficient solutions for a diverse range of challenges. Below are my profiles:
 
 <div align="center">
     <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="100" />
