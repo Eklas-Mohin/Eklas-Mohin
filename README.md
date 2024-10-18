@@ -42,7 +42,29 @@
     <a href="https://atcoder.jp/users/MOHIN">
         <img src="https://img.shields.io/badge/AtCoder-MOHIN-lightgrey?style=for-the-badge&logo=atcoder" alt="AtCoder">
     </a>
+    <a href="https://www.hackerrank.com/MOHIN">
+        <img src="https://img.shields.io/badge/HackerRank-MOHIN-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank">
+    </a>
+    <a href="https://www.hackerearth.com/@MOHIN">
+        <img src="https://img.shields.io/badge/HackerEarth-MOHIN-darkblue?style=for-the-badge&logo=hackerearth" alt="HackerEarth">
+    </a>
+    <a href="https://www.spoj.com/users/MOHIN">
+        <img src="https://img.shields.io/badge/SPOJ-MOHIN-lightgreen?style=for-the-badge&logo=spoj" alt="SPOJ">
+    </a>
+    <a href="https://lightoj.com/user/MOHIN">
+        <img src="https://img.shields.io/badge/LightOJ-MOHIN-purple?style=for-the-badge&logo=lightoj" alt="LightOJ">
+    </a>
+    <a href="https://www.urionlinejudge.com.br/judge/en/profile/5306">
+        <img src="https://img.shields.io/badge/UVa-MOHIN-brown?style=for-the-badge&logo=uva" alt="UVa">
+    </a>
+    <a href="https://www.codechef.com/users/MOHIN">
+        <img src="https://img.shields.io/badge/CodeChef-MOHIN-lightgrey?style=for-the-badge&logo=codechef" alt="CodeChef">
+    </a>
+    <a href="http://acm.timus.ru/author.aspx?id=MOHIN">
+        <img src="https://img.shields.io/badge/Timus-MOHIN-orange?style=for-the-badge&logo=timus" alt="Timus">
+    </a>
 </div>
+
 
 ---
 
