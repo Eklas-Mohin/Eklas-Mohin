@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
+![Header](/github-header-image.png "Header")
 
 <h2 align="center"> Hi, I'm Mohin 👋</h2>
 
