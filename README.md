@@ -3,7 +3,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Eklas-Mohin&style=flat-square&color=blue" alt=""/></div>
 
 ---
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - **Languages**: C, C++, Java, Python, JavaScript, TypeScript
 - **Web Development**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
@@ -26,9 +26,9 @@
 
 ---
 
-### 🏆 Competitive Programming
+## 🏆 Competitive Programming
 
-- I am actively engaged in competitive programming and participate in coding challenges across various platforms. Below are my profiles:
+#### I am actively engaged in competitive programming and participate in coding challenges across various platforms. Below are my profiles:
 
 <div align="center">
     <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="100" />
@@ -70,10 +70,10 @@
     </a>
 </div>
 
-- These platforms showcase my competitive programming journey and contributions, where I solve algorithmic challenges, participate in contests, and continuously sharpen my problem-solving skills.
+#### These platforms showcase my competitive programming journey and contributions, where I solve algorithmic challenges, participate in contests, and continuously sharpen my problem-solving skills.
 ---
 
-### 🌐 Web Development
+## 🌐 Web Development
 
 - Experienced in building full-stack web applications using the MERN stack.
 - Knowledgeable in frontend technologies like **React.js** and backend technologies like **Node.js** with **Express.js**.
