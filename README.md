@@ -28,6 +28,8 @@
 
 ### 🏆 Competitive Programming
 
+- I am actively engaged in competitive programming and participate in coding challenges across various platforms. Below are my profiles:
+
 <div align="center">
     <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="100" />
 </div>
@@ -68,7 +70,7 @@
     </a>
 </div>
 
-
+- These platforms showcase my competitive programming journey and contributions, where I solve algorithmic challenges, participate in contests, and continuously sharpen my problem-solving skills.
 ---
 
 ### 🌐 Web Development
