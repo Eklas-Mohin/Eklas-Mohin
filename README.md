@@ -29,7 +29,7 @@
 ### 🏆 Competitive Programming
 
 <div align="center">
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150" />
 </div>
 
 <div align="center">
