@@ -1,6 +1,10 @@
 ![Header](./github-header-image2.png "Header")
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Eklas-Mohin&style=flat-square&color=blue" alt=""/></div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Eklas-Mohin&style=flat-square&color=blue" alt=""/>
+    <img src="https://badges.pufler.dev/repos/Eklas-Mohin"/>
+    <img src="https://badges.pufler.dev/commits/monthly/Eklas-Mohin" />
+</div>
 
 ---
 ## 🛠 Tech Stack
