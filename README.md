@@ -28,9 +28,21 @@
 
 ### 🏆 Competitive Programming
 
-- Active participant in platforms like [Codeforces](https://codeforces.com/profile/MOHIN.CF), [Leetcode](https://leetcode.com/u/MOHIN_99/), and [AtCoder](https://atcoder.jp/).
-- Solving complex problems using efficient algorithms and optimization techniques like dynamic programming, memoization, and more.
-- Passionate about improving coding skills and participating in programming contests.
+<div align="center">
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="300" />
+</div>
+
+<div align="center">
+    <a href="https://codeforces.com/profile/MOHIN.CF">
+        <img src="https://img.shields.io/badge/Codeforces-MOHIN.CF-blue?style=for-the-badge&logo=codeforces" alt="Codeforces">
+    </a>
+    <a href="https://leetcode.com/u/MOHIN_99/">
+        <img src="https://img.shields.io/badge/Leetcode-MOHIN__99-orange?style=for-the-badge&logo=leetcode" alt="Leetcode">
+    </a>
+    <a href="https://atcoder.jp/users/MOHIN">
+        <img src="https://img.shields.io/badge/AtCoder-MOHIN-lightgrey?style=for-the-badge&logo=atcoder" alt="AtCoder">
+    </a>
+</div>
 
 ---
 
