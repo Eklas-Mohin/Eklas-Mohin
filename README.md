@@ -97,8 +97,8 @@
 
 ### 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/)<br />
-[![GitHub](https://img.shields.io/badge/GitHub-Eklas--Mohin-blue?style=flat-square)](https://github.com/Eklas-Mohin) &nbsp; Recursive call, right?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Eklas--Mohin-blue?style=flat-square)](https://github.com/Eklas-Mohin)
 
 
 ---
