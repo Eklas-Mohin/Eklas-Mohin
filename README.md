@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/AtCoder-MOHIN-lightgrey?style=for-the-badge&logo=atcoder" alt="AtCoder">
     </a>
     <br/ >
-    <a href="https://www.hackerrank.com/MOHIN">
+    <a href="https://www.hackerrank.com/profile/mohin030299">
         <img src="https://img.shields.io/badge/HackerRank-MOHIN-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank">
     </a>
     <a href="https://www.hackerearth.com/@MOHIN">
@@ -53,17 +53,17 @@
         <img src="https://img.shields.io/badge/SPOJ-MOHIN-lightgreen?style=for-the-badge&logo=spoj" alt="SPOJ">
     </a>
     <br/ >
-    <a href="https://lightoj.com/user/MOHIN">
+    <a href="https://lightoj.com/user/mohin">
         <img src="https://img.shields.io/badge/LightOJ-MOHIN-purple?style=for-the-badge&logo=lightoj" alt="LightOJ">
     </a>
     <a href="https://www.urionlinejudge.com.br/judge/en/profile/5306">
         <img src="https://img.shields.io/badge/UVa-MOHIN-brown?style=for-the-badge&logo=uva" alt="UVa">
     </a>
-    <a href="https://www.codechef.com/users/MOHIN">
+    <a href="https://www.codechef.com/users/mohin_99">
         <img src="https://img.shields.io/badge/CodeChef-MOHIN-lightgrey?style=for-the-badge&logo=codechef" alt="CodeChef">
     </a>
     <br/ >
-    <a href="http://acm.timus.ru/author.aspx?id=MOHIN">
+    <a href="https://acm.timus.ru/author.aspx?id=376114">
         <img src="https://img.shields.io/badge/Timus-MOHIN-orange?style=for-the-badge&logo=timus" alt="Timus">
     </a>
 </div>
