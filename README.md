@@ -33,7 +33,7 @@
 
 I am actively engaged in competitive programming, participating in various coding challenges across multiple platforms. I regularly compete on platforms like Codeforces, LeetCode, and AtCoder. Through these competitions, I an trying to enhance my coding skill.
 
-Connect with my Coding Adventures:
+Connect with my coding adventures:
 <div style="display: flex; flex-direction: column; align-items: center;">
     
 [![StopStalk](https://img.shields.io/badge/StopStalk-MOHIN-FF5733?style=for-the-badge&logo=stopstalk)](https://www.stopstalk.com/user/profile/mohin)
