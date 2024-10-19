@@ -34,7 +34,8 @@
 I am actively engaged in competitive programming, participating in various coding challenges across multiple platforms. I regularly compete on platforms like Codeforces, LeetCode, and AtCoder. Through these competitions, I continually enhance my problem-solving skills, explore new algorithms, and refine my coding techniques.
 
 ### Connect with My Coding Adventures:
-
+<div style="display: flex; flex-direction: column; align-items: center;">
+    
 [![StopStalk](https://img.shields.io/badge/StopStalk-MOHIN-FF5733?style=for-the-badge&logo=stopstalk)](https://www.stopstalk.com/user/profile/mohin)
 [![Codeforces](https://img.shields.io/badge/Codeforces-MOHIN-9B59B6?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/MOHIN.CF)
 [![Leetcode](https://img.shields.io/badge/Leetcode-MOHIN-E67E22?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/MOHIN_99/)
@@ -46,6 +47,8 @@ I am actively engaged in competitive programming, participating in various codin
 [![Timus](https://img.shields.io/badge/Timus-MOHIN-FFC300?style=for-the-badge&logo=timus)](https://acm.timus.ru/author.aspx?id=376114) 
 [![SPOJ](https://img.shields.io/badge/SPOJ-MOHIN-3498DB?style=for-the-badge&logo=spoj)](https://www.spoj.com/users/mohin/)
 [![LightOJ](https://img.shields.io/badge/LightOJ-MOHIN-8E44AD?style=for-the-badge&logo=lightoj)](https://lightoj.com/user/mohin)
+
+</div>
 
 These platforms showcase my competitive programming journey and contributions, where I solve algorithmic challenges, participate in contests, and continuously sharpen my problem-solving skills.
 
