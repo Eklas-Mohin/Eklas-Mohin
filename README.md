@@ -33,38 +33,39 @@
 <p align="justify">I am actively engaged in competitive programming, participating in various coding challenges across multiple platforms.I regularly compete on platforms like Codeforces, LeetCode, and AtCoder. Through these competitions, I continually enhance my problem-solving skills, explore new algorithms, and refine my coding techniques.</p>
 
 <div align="center">
+    <h3 style="color: #2A8EBB;">Connect with My Coding Adventures:</h3>
     <a href="https://codeforces.com/profile/MOHIN.CF">
-        <img src="https://img.shields.io/badge/Codeforces-MOHIN.CF-2A8EBB?style=for-the-badge&logo=codeforces" alt="Codeforces">
+        <img src="https://img.shields.io/badge/Codeforces-MOHIN.CF-9B59B6?style=for-the-badge&logo=codeforces" alt="Codeforces" style="margin: 0; padding: 0; display: inline;">
     </a>
     <a href="https://leetcode.com/u/MOHIN_99/">
-        <img src="https://img.shields.io/badge/Leetcode-MOHIN__99-F9A74D?style=for-the-badge&logo=leetcode" alt="Leetcode">
+        <img src="https://img.shields.io/badge/Leetcode-MOHIN__99-E67E22?style=for-the-badge&logo=leetcode" alt="Leetcode" style="margin: 0; padding: 0; display: inline;">
     </a>
     <a href="https://atcoder.jp/users/MOHIN">
-        <img src="https://img.shields.io/badge/AtCoder-MOHIN-43A047?style=for-the-badge&logo=atcoder" alt="AtCoder">
+        <img src="https://img.shields.io/badge/AtCoder-MOHIN-2ECC71?style=for-the-badge&logo=atcoder" alt="AtCoder" style="margin: 0; padding: 0; display: inline;">
     </a>
     <br/>
     <a href="https://www.hackerrank.com/profile/mohin030299">
-        <img src="https://img.shields.io/badge/HackerRank-MOHIN-00B23A?style=for-the-badge&logo=hackerrank" alt="HackerRank">
+        <img src="https://img.shields.io/badge/HackerRank-MOHIN-27AE60?style=for-the-badge&logo=hackerrank" alt="HackerRank" style="margin: 0; padding: 0; display: inline;">
     </a>
     <a href="https://www.hackerearth.com/@mohin030299/">
-        <img src="https://img.shields.io/badge/HackerEarth-MOHIN-F6A5D7?style=for-the-badge&logo=hackerearth" alt="HackerEarth">
+        <img src="https://img.shields.io/badge/HackerEarth-MOHIN-D35400?style=for-the-badge&logo=hackerearth" alt="HackerEarth" style="margin: 0; padding: 0; display: inline;">
     </a>
     <a href="https://www.spoj.com/users/mohin/">
-        <img src="https://img.shields.io/badge/SPOJ-MOHIN-E1E1E1?style=for-the-badge&logo=spoj" alt="SPOJ">
+        <img src="https://img.shields.io/badge/SPOJ-MOHIN-3498DB?style=for-the-badge&logo=spoj" alt="SPOJ" style="margin: 0; padding: 0; display: inline;">
     </a>
     <br/>
     <a href="https://lightoj.com/user/mohin">
-        <img src="https://img.shields.io/badge/LightOJ-MOHIN-8A1D73?style=for-the-badge&logo=lightoj" alt="LightOJ">
+        <img src="https://img.shields.io/badge/LightOJ-MOHIN-8E44AD?style=for-the-badge&logo=lightoj" alt="LightOJ" style="margin: 0; padding: 0; display: inline;">
     </a>
     <a href="https://uhunt.onlinejudge.org/id/1643450">
-        <img src="https://img.shields.io/badge/UVa-MOHIN-7B4B4B?style=for-the-badge&logo=uva" alt="UVa">
+        <img src="https://img.shields.io/badge/UVa-MOHIN-F1C40F?style=for-the-badge&logo=uva" alt="UVa" style="margin: 0; padding: 0; display: inline;">
     </a>
     <a href="https://www.codechef.com/users/mohin_99">
-        <img src="https://img.shields.io/badge/CodeChef-MOHIN-B5B5B5?style=for-the-badge&logo=codechef" alt="CodeChef">
+        <img src="https://img.shields.io/badge/CodeChef-MOHIN-FF5733?style=for-the-badge&logo=codechef" alt="CodeChef" style="margin: 0; padding: 0; display: inline;">
     </a>
     <br/>
     <a href="https://acm.timus.ru/author.aspx?id=376114">
-        <img src="https://img.shields.io/badge/Timus-MOHIN-FF6A28?style=for-the-badge&logo=timus" alt="Timus">
+        <img src="https://img.shields.io/badge/Timus-MOHIN-FFC300?style=for-the-badge&logo=timus" alt="Timus" style="margin: 0; padding: 0; display: inline;">
     </a>
 </div>
 
