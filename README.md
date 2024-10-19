@@ -96,6 +96,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="150"/>
     </a>
 </div>
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eklas-Mohin&count_private=true&show_icons=true&hide_border=true&theme=tokyonight">
+</p>
 
 ---
 
