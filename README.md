@@ -42,7 +42,7 @@ I am actively engaged in competitive programming, participating in various codin
 [![AtCoder](https://img.shields.io/badge/AtCoder-MOHIN-2ECC71?style=for-the-badge&logo=atcoder)](https://atcoder.jp/users/MOHIN)
 [![HackerRank](https://img.shields.io/badge/HackerRank-MOHIN-27AE60?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/mohin030299)
 [![CodeChef](https://img.shields.io/badge/CodeChef-MOHIN-FF5733?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/mohin_99)
-[![UVa](https://img.shields.io/badge/UVa-M.E.R-F1C40F?style=for-the-badge&logo=uva)](https://uhunt.onlinejudge.org/id/1643450)
+[![UVa](https://img.shields.io/badge/UVa-MOHIN-F1C40F?style=for-the-badge&logo=uva)](https://uhunt.onlinejudge.org/id/1643450)
 [![Timus](https://img.shields.io/badge/Timus-MOHIN-FFC300?style=for-the-badge&logo=timus)](https://acm.timus.ru/author.aspx?id=376114) 
 [![SPOJ](https://img.shields.io/badge/SPOJ-MOHIN-3498DB?style=for-the-badge&logo=spoj)](https://www.spoj.com/users/mohin/)
 [![LightOJ](https://img.shields.io/badge/LightOJ-MOHIN-8E44AD?style=for-the-badge&logo=lightoj)](https://lightoj.com/user/mohin)
