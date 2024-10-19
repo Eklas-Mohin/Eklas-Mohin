@@ -6,7 +6,6 @@
     <img src="https://badges.pufler.dev/commits/monthly/Eklas-Mohin" />
 </div>
 
----
 ## 🛠 Tech Stack
 
 - **Languages**: C, C++, Java, Python, JavaScript, TypeScript
@@ -28,8 +27,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="max-width: 100%;" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="git" style="max-width: 100%;" width="40" height="40">
 </div>
-
----
 
 ## 🏆 Competitive Programming
 
@@ -77,18 +74,13 @@
 
 <p align="justify">These platforms showcase my competitive programming journey and contributions, where I solve algorithmic challenges, participate in contests, and continuously sharpen my problem-solving skills.</p>
 
-
----
-
-### 🌐 Web Development
+## 🌐 Web Development
 
 - Experienced in building full-stack web applications using the MERN stack.
 - Knowledgeable in frontend technologies like **React.js** and backend technologies like **Node.js** with **Express.js**.
 - Comfortable working with databases like **MongoDB**.
 
----
-
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://github.com/Eklas-Mohin">
@@ -105,13 +97,9 @@
     </a>
 </div>
 
----
-
-### 📫 My Socials:
+## 📫 My Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Recursion-blue?style=flat-square)](https://github.com/Eklas-Mohin)
-
----
 
 **Always eager to learn and take on new challenges!**
