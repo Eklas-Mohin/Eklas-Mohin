@@ -32,10 +32,6 @@
 <p align="justify">I am actively engaged in competitive programming, participating in various coding challenges across multiple platforms.I regularly compete on platforms like Codeforces, LeetCode, and AtCoder. Through these competitions, I continually enhance my problem-solving skills, explore new algorithms, and refine my coding techniques.</p>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="100" />
-</div>
-
-<div align="center">
     <a href="https://codeforces.com/profile/MOHIN.CF">
         <img src="https://img.shields.io/badge/Codeforces-MOHIN.CF-2A8EBB?style=for-the-badge&logo=codeforces" alt="Codeforces">
     </a>
