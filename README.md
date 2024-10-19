@@ -88,33 +88,6 @@
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-    <a href="https://github.com/Eklas-Mohin">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=dark&background=000000" alt="GitHub Streak" height="150"/>
-    </a>
-    <a href="https://github.com/Eklas-Mohin">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="150"/>
-    </a>
-</div>
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eklas-Mohin&count_private=true&show_icons=true&hide_border=true&theme=tokyonight">
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-    <a href="https://github.com/Eklas-Mohin">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=highcontrast&background=0d1117&border=444" alt="GitHub Streak" height="175" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://github.com/Eklas-Mohin">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=tokyonight&background=0d1117&border=444" alt="Top Languages" height="175" style="margin-left: 10px;"/>
-    </a>
-</div>
-
-### 📊 GitHub Stats:
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://github.com/Eklas-Mohin">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=tokyonight&background=0d1117&hide_border=true" alt="GitHub Streak" height="180"/>
