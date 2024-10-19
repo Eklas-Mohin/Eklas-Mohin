@@ -102,6 +102,23 @@
 
 ---
 
+### 📊 GitHub Stats:
+
+<div align="center">
+    <a href="https://github.com/Eklas-Mohin">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=highcontrast&background=0d1117&border=444" alt="GitHub Streak" height="175" style="margin-right: 10px;"/>
+    </a>
+    <a href="https://github.com/Eklas-Mohin">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=tokyonight&background=0d1117&border=444" alt="Top Languages" height="175" style="margin-left: 10px;"/>
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/Eklas-Mohin">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eklas-Mohin&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&background=0d1117&border=444" height="175" />
+    </a>
+</div>
+
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/) &nbsp;
