@@ -93,13 +93,13 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=tokyonight&background=0d1117&hide_border=true" alt="GitHub Streak" height="180"/>
     </a>
     <a href="https://github.com/Eklas-Mohin">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=tokyonight&background=0d1117&hide_border=true" alt="Top Languages" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Top Languages" height="180"/>
     </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
     <a href="https://github.com/Eklas-Mohin">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eklas-Mohin&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&background=0d1117" height="180"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eklas-Mohin&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" height="180"/>
     </a>
 </div>
 
@@ -107,7 +107,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Recursion-blue?style=flat-square)](https://github.com/Eklas-Mohin)
-
 
 ---
 
