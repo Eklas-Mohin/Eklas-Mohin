@@ -27,6 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="git" style="max-width: 100%;" width="40" height="40">
 </div>
 
+#
 ## 🏆 Competitive Programming
 
 <p align="justify">I am actively engaged in competitive programming, participating in various coding challenges across multiple platforms.I regularly compete on platforms like Codeforces, LeetCode, and AtCoder. Through these competitions, I continually enhance my problem-solving skills, explore new algorithms, and refine my coding techniques.</p>
@@ -69,12 +70,15 @@
 
 <p align="justify">These platforms showcase my competitive programming journey and contributions, where I solve algorithmic challenges, participate in contests, and continuously sharpen my problem-solving skills.</p>
 
+#
+
 ## 🌐 Web Development
 
 - Experienced in building full-stack web applications using the MERN stack.
 - Knowledgeable in frontend technologies like **React.js** and backend technologies like **Node.js** with **Express.js**.
 - Comfortable working with databases like **MongoDB**.
 
+#
 ## 📊 GitHub Stats:
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -92,9 +96,6 @@
     </a>
 </div>
 
-## 📫 My Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Recursion-blue?style=flat-square)](https://github.com/Eklas-Mohin)
+# 
 
 **Always eager to learn and take on new challenges!**
