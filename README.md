@@ -103,11 +103,13 @@
     </a>
 </div>
 
-### 📫 How to reach me:
+----
+
+### 📫 My Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-blue?style=flat-square)](https://linkedin.com/in/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Recursion-blue?style=flat-square)](https://github.com/Eklas-Mohin)
 
 ---
 
-**Always eager to learn and take on new challenges!**
+** I'm always eager to learn and take on new challenges! **
