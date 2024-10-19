@@ -12,6 +12,7 @@
 - **Languages**: C, C++, Java, Python, JavaScript, TypeScript
 - **Web Development**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - **Competitive Programming**: Data Structures, Algorithms, Dynamic Programming, and more
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alg="c" style="max-width: 100%;" width="40" height="40">
     <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alg="cpp" style="max-width: 100%;" width="40" height="40">
