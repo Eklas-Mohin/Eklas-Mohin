@@ -78,6 +78,57 @@
 
 ---
 
+## 🏆 Competitive Programming
+
+<p align="justify">I am actively engaged in competitive programming, participating in various coding challenges across multiple platforms. With a passion for solving complex algorithmic problems, I regularly compete on platforms like Codeforces, LeetCode, and AtCoder. Through these competitions, I continually enhance my problem-solving skills, explore new algorithms, and refine my coding techniques. This hands-on experience allows me to stay updated with the latest trends in competitive programming and develop efficient solutions for a diverse range of challenges.</p>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="100" />
+</div>
+
+### 🌐 My Profiles:
+
+<div align="center">
+    <a href="https://codeforces.com/profile/MOHIN.CF">
+        <img src="https://img.shields.io/badge/Codeforces-MOHIN.CF-blue?style=for-the-badge&logo=codeforces" alt="Codeforces">
+    </a>
+    <a href="https://leetcode.com/u/MOHIN_99/">
+        <img src="https://img.shields.io/badge/Leetcode-MOHIN__99-orange?style=for-the-badge&logo=leetcode" alt="Leetcode">
+    </a>
+    <a href="https://atcoder.jp/users/MOHIN">
+        <img src="https://img.shields.io/badge/AtCoder-MOHIN-lightgrey?style=for-the-badge&logo=atcoder" alt="AtCoder">
+    </a>
+    <br/>
+    <a href="https://www.hackerrank.com/profile/mohin030299">
+        <img src="https://img.shields.io/badge/HackerRank-MOHIN-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank">
+    </a>
+    <a href="https://www.hackerearth.com/@mohin030299/">
+        <img src="https://img.shields.io/badge/HackerEarth-MOHIN-darkblue?style=for-the-badge&logo=hackerearth" alt="HackerEarth">
+    </a>
+    <a href="https://www.spoj.com/users/mohin/">
+        <img src="https://img.shields.io/badge/SPOJ-MOHIN-lightgreen?style=for-the-badge&logo=spoj" alt="SPOJ">
+    </a>
+    <br/>
+    <a href="https://lightoj.com/user/mohin">
+        <img src="https://img.shields.io/badge/LightOJ-MOHIN-purple?style=for-the-badge&logo=lightoj" alt="LightOJ">
+    </a>
+    <a href="https://uhunt.onlinejudge.org/id/1643450">
+        <img src="https://img.shields.io/badge/UVa-MOHIN-brown?style=for-the-badge&logo=uva" alt="UVa">
+    </a>
+    <a href="https://www.codechef.com/users/mohin_99">
+        <img src="https://img.shields.io/badge/CodeChef-MOHIN-lightgrey?style=for-the-badge&logo=codechef" alt="CodeChef">
+    </a>
+    <br/>
+    <a href="https://acm.timus.ru/author.aspx?id=376114">
+        <img src="https://img.shields.io/badge/Timus-MOHIN-orange?style=for-the-badge&logo=timus" alt="Timus">
+    </a>
+</div>
+
+<p align="justify">These platforms showcase my competitive programming journey and contributions, where I solve algorithmic challenges, participate in contests, and continuously sharpen my problem-solving skills.</p>
+
+
+---
+
 ### 🌐 Web Development
 
 - Experienced in building full-stack web applications using the MERN stack.
