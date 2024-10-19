@@ -1,9 +1,8 @@
 ![Header](./github-header-image2.png "Header")
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Eklas-Mohin&style=flat-square&color=blue" alt=""/>
-    <img src="https://badges.pufler.dev/repos/Eklas-Mohin"/>
-    <img src="https://badges.pufler.dev/commits/monthly/Eklas-Mohin" />
+    <img src="https://komarev.com/ghpvc/?username=Eklas-Mohin&style=flat-square&color=007ec6" alt="Profile views"/>
+    <img src="https://img.shields.io/github/stars/Eklas-Mohin?style=social" alt="Stars"/>
 </div>
 
 ## 🛠 Tech Stack
