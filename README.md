@@ -78,7 +78,7 @@
 
 ---
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 - Experienced in building full-stack web applications using the MERN stack.
 - Knowledgeable in frontend technologies like **React.js** and backend technologies like **Node.js** with **Express.js**.
@@ -103,7 +103,7 @@
     </a>
 </div>
 
-----
+---
 
 ### 📫 My Socials:
 
@@ -112,4 +112,4 @@
 
 ---
 
-** I'm always eager to learn and take on new challenges! **
+**I'm always eager to learn and take on new challenges!**
