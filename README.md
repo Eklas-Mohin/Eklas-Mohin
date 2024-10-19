@@ -113,9 +113,20 @@
     </a>
 </div>
 
-<div align="center">
+### 📊 GitHub Stats:
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://github.com/Eklas-Mohin">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eklas-Mohin&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&background=0d1117&border=444" height="175" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Eklas-Mohin&theme=tokyonight&background=0d1117&hide_border=true" alt="GitHub Streak" height="180"/>
+    </a>
+    <a href="https://github.com/Eklas-Mohin">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklas-Mohin&layout=compact&theme=tokyonight&background=0d1117&hide_border=true" alt="Top Languages" height="180"/>
+    </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+    <a href="https://github.com/Eklas-Mohin">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eklas-Mohin&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&background=0d1117" height="180"/>
     </a>
 </div>
 
